@@ -23,11 +23,40 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Configure Roles
+
+Supreme Admin
+- Configure Departments
+
+System Administrators
+- Configure Teams
+
+Level I Support
+
+Level II Support
+- Configure Agents (workers)
+
+
+- Configure Users (customers)
+
+- Configure SLA
+
+Sev-A (1 hour, 24/7)
+
+Sev-B (4 hours, 24/7)
+
+Sev-C (8 hours, business hours)
+- Configure Help Topics
+
+Business Critical Outage
+
+Personal Computer Issues
+
+Equipment Request
+
+Password Reset
+
+
 
 <h2>Configuration Steps</h2>
 
