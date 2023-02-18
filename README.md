@@ -28,7 +28,6 @@ Supreme Admin
 <p>
 As an Administrator add the new role "Supreme Admin" 
 </p>
-<br />
 
 - Configure Departments
 
